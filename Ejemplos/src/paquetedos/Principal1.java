@@ -6,9 +6,10 @@
 package paquetedos;
 
 
+import paquete03.*;
 import paqueteuno.Operador;
 
-public class Principal {
+public class Principal1 {
     
     public static void main(String[] args) {
         int valorA = Operador.obtenerNumero();
